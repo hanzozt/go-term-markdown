@@ -1,4 +1,4 @@
-module github.com/openziti/go-term-markdown
+module github.com/hanzozt/go-term-markdown
 
 go 1.24.0
 

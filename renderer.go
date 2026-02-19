@@ -18,7 +18,7 @@ import (
 	"github.com/kyokomi/emoji/v2"
 	"golang.org/x/net/html"
 
-	htmlWalker "github.com/openziti/go-term-markdown/html"
+	htmlWalker "github.com/hanzozt/go-term-markdown/html"
 )
 
 /*
